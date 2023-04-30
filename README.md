@@ -10,3 +10,8 @@ Push Notificaion With Firebase
     <img src="/images/ss_three.png" alt="UI Design" style="width: 30%; height: auto;">
     <img src="/images/ss_four.png" alt="UI Design" style="width: 45%; height: auto;">
 </div>
+
+
+# Direct Firebase - Push Notification
+## Connect the project with firebase (Cloude Messaging)
+## Firebase > Engage > Messaging >> Create your first campaiagn >> Firebase Notification Message
