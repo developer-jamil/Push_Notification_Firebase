@@ -13,5 +13,5 @@ Push Notificaion With Firebase
 
 
 # Direct Firebase - Push Notification
-## Connect the project with firebase (Cloude Messaging)
-## Firebase > Engage > Messaging >> Create your first campaiagn >> Firebase Notification Message
+### Step 1: Connect the project with firebase (Cloude Messaging)
+### Step 2: Firebase > Engage > Messaging >> Create your first campaiagn >> Firebase Notification Message
